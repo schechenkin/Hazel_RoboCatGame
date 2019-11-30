@@ -1,7 +1,7 @@
-# Hazel
+# RoboCat Hazel
 
 ## Getting Started
-This is port RoboCat game from book Multiplayer Game Programming: Architecting Networked Games 
+This is port RoboCat game from book [Multiplayer Game Programming: Architecting Networked Games](https://www.amazon.com/Multiplayer-Game-Programming-Architecting-Networked/dp/0134034309)
 
 Visual Studio 2017 or 2019 is recommended, Hazel is officially untested on other development environments whilst we focus on a Windows build.
 
