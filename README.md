@@ -13,6 +13,8 @@ You can clone the repository to a local destination using git:
 
 Make sure that you do a `--recursive` clone to fetch all of the submodules!
 
+Run 'scripts/Win-GenProjects.bat'
+
 ## How to play
 
 - Start server: `RoboCatServer.exe [port]`
