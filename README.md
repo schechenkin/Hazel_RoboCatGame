@@ -13,10 +13,13 @@ Make sure that you do a `--recursive` clone to fetch all of the submodules!
 
 ## How to play
 
-Start server: `RoboCatServer.exe [port]`
-Start cleint: `RoboCatClient.exe 127.0.0.1:[port] [playername]`
+ - Windows, run `.\build.cmd`
+ - Linux, run `./build.sh`
+
+- Start server: `RoboCatServer.exe [port]`
+- Start cleint: `RoboCatClient.exe 127.0.0.1:[port] [playername]`
 
 Example:
-`RoboCatServer.exe 40000`
-`RoboCatClient.exe 127.0.0.1:40000 player1`
-`RoboCatClient.exe 127.0.0.1:40000 player2`
+- `RoboCatServer.exe 40000`
+- `RoboCatClient.exe 127.0.0.1:40000 player1`
+- `RoboCatClient.exe 127.0.0.1:40000 player2`
