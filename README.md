@@ -18,9 +18,11 @@ Run 'scripts/Win-GenProjects.bat'
 ## How to play
 
 - Start server: `RoboCatServer.exe [port]`
-- Start cleint: `RoboCatClient.exe 127.0.0.1:[port] [playername]`
+- Start cleint: `RoboCatClient.exe [ip]:[port] [playername]`
 
 Example:
 - `RoboCatServer.exe 40000`
 - `RoboCatClient.exe 127.0.0.1:40000 player1`
 - `RoboCatClient.exe 127.0.0.1:40000 player2`
+
+You may need to copy manually assets folder near RoboCatServer.exe and RoboCatClient.exe to start game from command line
