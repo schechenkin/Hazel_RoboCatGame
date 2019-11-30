@@ -1,4 +1,6 @@
-# RoboCat Hazel
+# RoboCat Multiplayer Game on Hazel Engine
+
+![RoboCat](/Resources/Branding/Hazel_Logo_Text_Light_Square.png?raw=true "Hazel")
 
 ## Getting Started
 This is port RoboCat game from book [Multiplayer Game Programming: Architecting Networked Games](https://www.amazon.com/Multiplayer-Game-Programming-Architecting-Networked/dp/0134034309) on [Hazel Engine](https://github.com/TheCherno/Hazel)
